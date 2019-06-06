@@ -4,8 +4,11 @@ Keith made a SUPER SECURE SYSTEM!!! He claims it is so secure as long as he does
 nc crypto.hsctf.com 8111
 ```
 
-Brute Force time
+Flag là  `my super secret message` nhưng ở dạng bị mã hóa. Ở dưới phần `Enter the message you want to encrypt: ` chỉ cần nhập đúng flag ra. Ví dụng nhập định dạng cờ `hsctf`.
+![](https://i.imgur.com/Peb8Dep.png)
+Thì ta thấy được đoạn đầu sẽ giống nhau. -> `Brute Force time`
 
+Sử dụng script sau:
 ```
 from pwn import *
 host='crypto.hsctf.com'
