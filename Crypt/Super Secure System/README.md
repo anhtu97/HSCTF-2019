@@ -6,7 +6,7 @@ nc crypto.hsctf.com 8111
 
 Flag là  `my super secret message` nhưng ở dạng bị mã hóa. Ở dưới phần `Enter the message you want to encrypt: ` chỉ cần nhập đúng flag ra. Ví dụng nhập định dạng cờ `hsctf`.
 ![](https://i.imgur.com/Peb8Dep.png)
-Thì ta thấy được đoạn đầu sẽ giống nhau. -> `Brute Force time`
+Thì ta thấy được đoạn đầu sẽ giống nhau. -> `Brute Force`
 
 Sử dụng script sau:
 ```
