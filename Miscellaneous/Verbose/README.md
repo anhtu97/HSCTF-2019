@@ -1,4 +1,4 @@
-#Decode JSfuck
+# Decode JSfuck
 
 `https://enkhee-osiris.github.io/Decoder-JSFuck/`
 
