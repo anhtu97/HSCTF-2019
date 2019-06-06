@@ -7,7 +7,7 @@ Vì n là số nguyên tố nên tìm d bằng cách
 
 ![](https://i.imgur.com/Hh0siBH.png)
 
-Có d,c,n -> tìm được m
+Có d,e,n -> tìm được m
 
 ![](https://i.imgur.com/upB85y0.png)
 
